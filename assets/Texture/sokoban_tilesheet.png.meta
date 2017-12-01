@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4dca1d07-35a8-4840-aba1-cdb886bf2274",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sokoban_tilesheet": {
+      "ver": "1.0.3",
+      "uuid": "6e426177-f65e-499c-aabd-4282f1b983f0",
+      "rawTextureUuid": "4dca1d07-35a8-4840-aba1-cdb886bf2274",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 832,
+      "height": 512,
+      "rawWidth": 832,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
